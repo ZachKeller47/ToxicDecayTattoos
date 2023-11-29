@@ -46,14 +46,8 @@ body {
     margin-right: 3.5em;
     font-family: 'Cinzel Decorative', serif;
     font-weight: 800;
-}
-
-.logo:hover {
     text-shadow: 2px 2px 3px black;
-    transition: 0.5s;
 }
-
-
 
 nav {
     display: flex;
